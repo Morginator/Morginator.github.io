@@ -1,0 +1,30 @@
+h1 {
+  background-color: blue;
+  color: yellow;
+}
+a {
+  background-color: blue;
+  color: yellow;
+  
+}
+body {
+  background-image: url("http://www.interieur-inrichting.net/afbeeldingen/woonkamer-ideeen-appartement-gothenburg.jpg");
+  background-size: 1375px 700px;
+}
+.Accesoires {
+background-repeat: repeat;
+background size: 1375px 700px;
+}
+p {
+font-family: sans-serif;
+color: blue;
+}
+li {
+  color: blue;
+
+}
+tr {
+  background-color: yellow;
+  color: blue;
+
+}
