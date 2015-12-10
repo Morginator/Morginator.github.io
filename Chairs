@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<title> Chairs and Benches - The MOST amazing products from IKEA. </title>
+</head>
+<body>
+  <a href="index.html">Index</a>
+  <a href="ratings.html">Ratings explained</a>
+  <a href="products.html">Products</a>
+
+  <Div class= "Buttons2">
+  <a href="Accesoires.html">Accessories</a>
+    <a href="beds.html">Beds</a>
+      <a href="Chairs.html">Chairs</a>
+        <a href="Clocks.html">Clocks</a>
+          <a href="Desks.html"> Desks</a>
+            <a href="Lights.html">Lights</a>
+              <a href="Tables.html">Tables</a>
+                <a href="Toys.html">Toys</a>
+
+</div>
+<h3> Chairs </h3>
+<img src= "http://www.ikea.com/nl/nl/images/products/volmar-bureaustoel-met-armleuningen-grijs__0133045_PE288111_S4.JPG" />
+<p>VOLMAR Bureaustoel met armleuningen</p>
+<p>&euro;229 incl. btw</p>
+<p>&euro;189,25 excl. btw</p>
+<p> Rating: </p>
+<p>&#9733;&#9733; </p>
+<p>&#9757; &#9757; &#9757; &#9757; </p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/kivik-zitbank-u-vormig-grijs__0320696_PE514923_S4.JPG" />
+<p>KIVIK Zitbank U-vormig</p>
+<p>&euro;1469 incl. btw</p>
+<p>&euro;1214,06 excl. btw</p>
+<p> Rating: </p>
+<p>&#9733;&#9733;&#9733; </p>
+<p>&#9757; &#9757; &#9757; &#9757; &#9757; </p>
+</body>
