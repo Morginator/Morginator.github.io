@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <title>Clocks - The MOST amazing products from IKEA.</title>
+</head>
+<body>
+  <a href="index.html">Index</a>
+  <a href="ratings.html">Ratings explained</a>
+  <a href="products.html">Products</a>
+
+  <Div class= "Buttons2">
+  <a href="Accesoires.html">Accessories</a>
+    <a href="beds.html">Beds</a>
+      <a href="Chairs.html">Chairs</a>
+        <a href="Clocks.html">Clocks</a>
+          <a href="Desks.html"> Desks</a>
+            <a href="Lights.html">Lights</a>
+              <a href="Tables.html">Tables</a>
+                <a href="Toys.html">Toys</a>
+
+</div>
+<h3> Clocks </h3>
+
+<img src ="http://www.ikea.com/nl/nl/images/products/ikea-ps-pendel-staande-klok-zwart__0085423_PE213138_S4.JPG" />
+  <p>IKEA PS PENDEL Staande klok</P>
+  <p>&euro;159,- incl. btw</p>
+  <p>&euro;131,40 excl. btw </p>
+  <p> Rating: </p>
+  <p>&#9733;&#9733;&#9733;&#9733; </p>
+  <p>&#9757; &#9757; &#9757; &#9757; &#9757; </p>
+<img src= "http://www.ikea.com/nl/nl/images/products/sprallis-wandklok-oranje__0350970_PE535018_S4.JPG" />
+  <p>SPRALLIS Wandklok</p>
+  <p>&euro;12,95 incl. btw</p>
+  <p>&euro;10,70 excl. btw </p>
+  <p> Rating: </p>
+  <p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+  <p>&#9757; &#9757; &#9757; </p>
+<img src= "http://www.ikea.com/nl/nl/images/products/starholk-wandklok__0362855_PE549556_S4.JPG" />
+  <p>STARHOLK Wandklok</p>
+  <p>&euro;4,99 incl. btw</p>
+  <p>&euro;4,12 excl. btw</p>
+  <p> RatingL </p>
+  <p>&#9733;&#9733;&#9733;&#9733;&#9733; </p>
+  <p>&#9757; &#9757; &#9757; </P>
+
+</body>
