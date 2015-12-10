@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<head>
+<Title> Clothing! - The MOST amazing products from IKEA. </clothing>
+</head>
+<body>
+  <div class= "Buttons">
+  <a href="index.html">Index</a>
+  <a href="ratings.html">Ratings explained</a>
+  <a href="products.html">Products</a>
+</div> 
+
+  <Div class= "Buttons2">
+  <a href="Accesoires.html">Accessories</a>
+    <a href="beds.html">Beds</a>
+      <a href="Chairs.html">Chairs</a>
+        <a href="Clocks.html">Clocks</a>
+          <a href="Clothing.html">Clothing</a>
+            <a href="Desks.html"> Desks</a>
+              <a href="Lights.html">Lights</a>
+                <a href="Tables.html">Tables</a>
+                  <a href="Toys.html">Toys</a>
+
+</div>
+<h3> "Clothing" </h3>
+<img src= "http://www.ikea.com/nl/nl/images/products/lattjo-adelaarsmasker-wit__0349454_PE535816_S4.JPG"/>
+  <p>LATTJO Adelaarsmasker</p>
+  <p>&euro;5,99 incl. btw</p>
+  <p>&euro;4,95 excl.btw</p>
+  <p> Rating:</p>
+  <p>&#9733;&#9733;&#9733;</p>
+  <p>&#9757; &#9757; </p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/lattjo-dierenpoten-paar-zwart__0330929_PE520856_S4.JPG" />
+  <p>LATTJO Dierenpoten</p>
+  <p>&euro;7,99 incl. btw</p>
+  <p>&euro;6,60 excl. btw</p>
+  <p> Rating: </p>
+  <p>&#9733;&#9733;&#9733;</p>
+  <p>&#9757;  </p>
+</body>
