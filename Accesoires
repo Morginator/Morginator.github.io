@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title> Accesoires - The MOST amazing products from IKEA.</title>
+</head>
+<body>
+  <a href="index.html">Index</a>
+    <a href="ratings.html">Ratings explained</a>
+      <a href="products.html">Products</a>
+      <Div class= "Buttons2">
+      <a href="Accesoires.html">Accessories</a>
+        <a href="beds.html">Beds</a>
+          <a href="Chairs.html">Chairs</a>
+            <a href="Clocks.html">Clocks</a>
+              <a href="Desks.html"> Desks</a>
+                <a href="Lights.html">Lights</a>
+                  <a href="Tables.html">Tables</a>
+                    <a href="Toys.html">Toys</a>
+
+    </div>
+<div class= 'Accesoires'>
+<h3> Accessoires </h3>
+<img src="http://www.ikea.com/nl/nl/images/products/samspelt-decoratie-geel__0375365_PE556768_S4.JPG" />
+  <p>SAMSPELT Decoratie</p>
+  <p>&euro;14,95 incl. btw</p>
+  <p>&euro;12,36 excl. btw </P>
+    <p> Rating:  </p>
+    <p> &#9733; &#9733; &#9733; &#9733; &#9733;</p>
+    <p> &#9757; &#9757; </p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/slatthult-zelfklevende-decoratie__0143399_PE303028_S4.JPG" />
+  <p>SL&#196;THULT Zelfklevende decoratie</p>
+  <p>&euro;9,99 incl. btw</p>
+  <p>&euro;8,26 excl. btw </P>
+  <p> Rating: </p>
+  <p> &#9733; &#9733; &#9733; &#9733;  </p>
+  <p> &#9757; &#9757;</p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/stockholm-schaal-wit__0108871_PE258543_S4.JPG" />
+<p>STOCKHOLM Schaal</p>
+<p>&euro;19,95 incl. btw</p>
+<p>&euro;16,49 excl. btw</P>
+  <p> Rating: </p>
+  <p>&#9733; &#9733; &#9733;</p>
+  <p>&#9757; &#9757; &#9757; &#9757; </p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/blomster-vaas__80772_PE205082_S4.JPG" />
+  <p>BLOMSTER Vaas</p>
+  <p>&euro;39,95 incl. btw</p>
+  <p>&euro;33,02 excl. btw</p>
+  <p> Rating: </P>
+  <p>&#9733; &#9733;</p>
+  <p>&#9757; &#9757; &#9757; &#9757; </p>
+
+<img src="http://www.ikea.com/nl/nl/images/products/firande-schaal-zwart__0364651_PE548848_S4.JPG" />
+  <p>FIRANDE Schaal</p>
+  <p>&euro;24,95 incl. btw</p>
+  <p>&euro;20,62 excl. btw</p>
+  <p> Rating
+  &#9733; &#9733;
+ &#9757; &#9757; &#9757; &#9757;</p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/patrull-badkuipmat-groen__0092996_PE229983_S4.JPG" />
+  <p>PATRULL Badkuipmat</p>
+  <p>For IKEA FAMILY Members</p>
+  <p>&euro;3,99 incl. btw</p>
+  <p>&euro;3,30 excl. btw</p>
+  <p> Rating:; </p>
+
+
+<p> No Member of IKEA FAMILY? </p>
+  <p>&euro;4,99 incl. btw</p>
+  <p>&euro;4,12 excl. btw</p>
+  <p> Rating: </p>
+  <p>&#9733; &#9733; &#9733; &#9733; &#9733; </p>
+  <p>&#9757; &#9757; &#9757; &#9757; &#9757;</p>
+
+<img src= "http://www.ikea.com/nl/nl/images/products/nornas-wijnrek-oranje__0276698_PE415372_S4.JPG" />
+  <p>NORN&#196;S Wijnrek</p>
+  <p>&euro;10,- incl. btw</o>
+  <p>&euro;8,26 excl. btw</p>
+  <p> Rating: </p>
+  <p>&#9733; &#9733; &#9733; &#9733; </p>
+  <p>&#9757; &#9757; &#9757; &#9757; &#9757;</P>
+
+</div>
+
+</body>
